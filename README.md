@@ -1,4 +1,4 @@
-# :rocket Bootcamp Gostack Conceitos NodeJs
+# :rocket: Bootcamp Gostack Conceitos NodeJs
 Desafio: Conceitos do Node.js
 
 ## Objetivo
